@@ -1,21 +1,19 @@
-Startup tools
+All what you need to know to start a startup
 =======
 
 Hello!
 
-This project is a startup sceleton based on **Python**, **Flask** and **Twitter Bootstrap**.
+I like to be an entrepreneur and start a spartup *(like you)*. I am happy that I have found helpful content that helped me to understand what investors looking for. Also I am happy that I found some people who heped me to do my first steps on this way. So, lets start.
 
-You can clone this project and run it in minutes. After this you can focus on your idea to add new pages and see it in action. On this point you can show prototype for your clients. And finally, you can push this project on servers, because it's ready to high load.
+Start from Pitch Deck
+-------
 
-We prefer to save our time when create new statup.
+**Pitch Deck** is a presentation for investors. Main goals are:
+- answer **what your project do** and **what differences from your competitors**
+- how do you **make money** on your product and **how big is your target market**
 
-
-### What do we use?
-
-*(We describe why we decide to select each technology - just follow the link)*
-
- - **Python** - because it's language with beautiful syntax
- - **Flask** - because it's minimalistic web framework
- - **PostgreSQL** - because it's like MySQL but also has support of array columns and JSON fields
- - **RabbitMQ + Celery** - because we need to update some information as deferred tasks
- - **Twitter Bootstrap** - to help us to create first project prototype in minutes
+Selected content to help you in understanding goals of Pitch Deck:
+- [The Only 10 Slides You Need in Your Pitch](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) from Guy Kawasaki
+- [The Ultimate Pitch Deck to Raise Money for Startups](http://www.forbes.com/sites/chancebarnett/2014/05/09/investor-pitch-deck-to-raise-money-for-startups/#5d0912084863) article on forbes
+- [Investment pitch-deck 101](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
+- [The 1M/1M Self-Assessment](http://1m1m.sramanamitra.com/free-public-roundtables/the-1m1m-self-assessment/)
