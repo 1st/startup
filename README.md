@@ -15,5 +15,13 @@ Start from Pitch Deck
 Selected content to help you in understanding goals of Pitch Deck:
 - [The Only 10 Slides You Need in Your Pitch](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) from Guy Kawasaki
 - [The Ultimate Pitch Deck to Raise Money for Startups](http://www.forbes.com/sites/chancebarnett/2014/05/09/investor-pitch-deck-to-raise-money-for-startups/#5d0912084863) article on forbes
-- [Investment pitch-deck 101](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
+- [Investment pitch-deck 101](http://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
 - [The 1M/1M Self-Assessment](http://1m1m.sramanamitra.com/free-public-roundtables/the-1m1m-self-assessment/)
+
+Courses for entrepreneurs
+------
+
+- You can find a lot of courses for entrepreneurs on [edX](http://edx.org). My favorites are:
+  - [15.390.1x. Entrepreneurship 101: Who is your customer?](https://www.edx.org/course/entrepreneurship-101-who-customer-mitx-15-390-1x-0) by Bill Aulet
+  - [15.390.2x. Entrepreneurship 102: What can you do for your customer?](https://www.edx.org/course/entrepreneurship-102-what-can-you-do-mitx-15-390-2x-0) by Bill Aulet
+- [How to Start a Startup](http://startupclass.samaltman.com) by Sam Altman 
