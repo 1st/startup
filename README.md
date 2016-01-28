@@ -11,6 +11,7 @@ Start from Pitch Deck
 **Pitch Deck** is a presentation for investors. Main goals are:
 - answer **what your project do** and **what differences from your competitors**
 - how do you **make money** on your product and **how big is your target market**
+- create impressive presentation to get a second meeting
 
 Selected content to help you in understanding goals of Pitch Deck:
 - [The Only 10 Slides You Need in Your Pitch](http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/) from Guy Kawasaki
