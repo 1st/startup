@@ -3,7 +3,7 @@ All what you need to know to start a startup
 
 Hello!
 
-I like to be an entrepreneur and start a spartup *(like you)*. I am happy that I have found helpful content that helped me to understand what investors looking for. Also I am happy that I found some people who heped me to do my first steps on this way. So, lets start.
+I like to be an entrepreneur and start a spartup *(like you)*. I am happy that I have found content that helped me to understand **what are investors looking for**. Also I am happy to meet people who help me to do my first steps on this way. So, lets start.
 
 Start from Pitch Deck
 -------
